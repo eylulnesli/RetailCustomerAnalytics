@@ -1,0 +1,4 @@
+__pycache__/
+git add .
+git commit -m "Retail Customer Analytics: data generation, Pandas analysis, charts"
+git log --oneline
